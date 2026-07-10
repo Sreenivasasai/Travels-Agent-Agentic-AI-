@@ -2,35 +2,32 @@
 Here's a professional **README.md** for your **AI Travel Agent – Ooty Itinerary** project based on the uploaded itinerary. 
 
 ```markdown
-# 🧳 AI Travel Planner - Ooty Itinerary
+# AI Travel Planner - Ooty Itinerary
 
 An AI-powered Travel Planner that generates personalized travel itineraries based on the user's preferences such as starting location, destination, trip duration, and budget.
 
 This sample output demonstrates a **3-day trip to Ooty** with a complete travel plan, estimated expenses, food recommendations, travel tips, and budget-friendly suggestions.
 
----
 
-## ✨ Features
+##  Features
 
-- 📅 Day-wise travel itinerary
-- 📍 Top tourist attractions
-- 💰 Budget estimation
-- 🍽️ Local food recommendations
-- 🚖 Transportation suggestions
-- 💡 Budget-saving travel tips
-- 📝 Final trip summary
+-  Day-wise travel itinerary
+-  Top tourist attractions
+-  Budget estimation
+-  Local food recommendations
+-  Transportation suggestions
+-  Budget-saving travel tips
+-  Final trip summary
 
----
 
-## 📌 Destination
+##  Destination
 
 **Location:** Ooty, Tamil Nadu, India
 
 **Trip Duration:** 3 Days
 
----
 
-## 🗓️ Itinerary Overview
+##  Itinerary Overview
 
 ### Day 1
 - Visit Ooty Lake
@@ -47,9 +44,8 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Rose Garden
 - Thread Garden
 
----
 
-## 📍 Top Attractions
+##  Top Attractions
 
 - Ooty Lake
 - Doddabetta Peak
@@ -60,9 +56,9 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Rose Garden
 - Thread Garden
 
----
 
-## 💰 Estimated Budget
+
+##  Estimated Budget
 
 | Category | Estimated Cost |
 |----------|---------------:|
@@ -73,9 +69,8 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 | Miscellaneous | ₹500 |
 | **Total** | **₹6,000** |
 
----
 
-## 🍽️ Recommended Foods
+##  Recommended Foods
 
 - Nilgiri Chicken Curry
 - Ooty Varkey
@@ -90,9 +85,8 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Tastes of Ooty
 - The Dining Room
 
----
 
-## 🚖 Travel Tips
+##  Travel Tips
 
 - Travel from Bengaluru by bus or train.
 - Use taxis or auto-rickshaws for local sightseeing.
@@ -100,9 +94,8 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Book hotels in advance for better prices.
 - Keep valuables secure while travelling.
 
----
 
-## 💡 Budget Tips
+##  Budget Tips
 
 - Book transportation early.
 - Choose budget hotels.
@@ -110,9 +103,8 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Explore free attractions.
 - Visit local markets for affordable shopping.
 
----
 
-## 📄 Sample Output
+##  Sample Output
 
 The generated itinerary includes:
 
@@ -124,9 +116,8 @@ The generated itinerary includes:
 - Budget-saving suggestions
 - Overall trip summary
 
----
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Weather Forecast Integration
 - Google Maps Navigation
@@ -139,9 +130,8 @@ The generated itinerary includes:
 - AI Chat Assistant
 - Voice-Based Trip Planning
 
----
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python
 - Streamlit
@@ -150,9 +140,8 @@ The generated itinerary includes:
 - OpenStreetMap / Google Maps API (Optional)
 - Python-dotenv
 
----
 
-## 📷 Sample Destination
+##  Sample Destination
 
 **Destination:** Ooty
 
