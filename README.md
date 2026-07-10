@@ -1,4 +1,4 @@
-# Travels-Agent-Agentic-AI-
+ *Travels-Agent-Agentic-AI-*
 Here's a professional **README.md** for your **AI Travel Agent – Ooty Itinerary** project based on the uploaded itinerary. 
 
 ```markdown
@@ -9,7 +9,7 @@ An AI-powered Travel Planner that generates personalized travel itineraries base
 This sample output demonstrates a **3-day trip to Ooty** with a complete travel plan, estimated expenses, food recommendations, travel tips, and budget-friendly suggestions.
 
 
-##  Features
+ Features
 
 -  Day-wise travel itinerary
 -  Top tourist attractions
@@ -20,14 +20,14 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 -  Final trip summary
 
 
-##  Destination
+  Destination
 
 **Location:** Ooty, Tamil Nadu, India
 
 **Trip Duration:** 3 Days
 
 
-##  Itinerary Overview
+  Itinerary Overview
 
 ### Day 1
 - Visit Ooty Lake
@@ -45,7 +45,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Thread Garden
 
 
-##  Top Attractions
+  Top Attractions
 
 - Ooty Lake
 - Doddabetta Peak
@@ -58,7 +58,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 
 
 
-##  Estimated Budget
+  Estimated Budget
 
 | Category | Estimated Cost |
 |----------|---------------:|
@@ -70,7 +70,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 | **Total** | **₹6,000** |
 
 
-##  Recommended Foods
+  Recommended Foods
 
 - Nilgiri Chicken Curry
 - Ooty Varkey
@@ -78,7 +78,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Tapioca
 - Freshly Brewed Tea
 
-### Recommended Restaurants
+ Recommended Restaurants
 
 - Earl's Secret
 - Ooty Coffee House
@@ -86,7 +86,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - The Dining Room
 
 
-##  Travel Tips
+  Travel Tips
 
 - Travel from Bengaluru by bus or train.
 - Use taxis or auto-rickshaws for local sightseeing.
@@ -95,7 +95,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Keep valuables secure while travelling.
 
 
-##  Budget Tips
+  Budget Tips
 
 - Book transportation early.
 - Choose budget hotels.
@@ -104,7 +104,7 @@ This sample output demonstrates a **3-day trip to Ooty** with a complete travel 
 - Visit local markets for affordable shopping.
 
 
-##  Sample Output
+  Sample Output
 
 The generated itinerary includes:
 
@@ -117,7 +117,7 @@ The generated itinerary includes:
 - Overall trip summary
 
 
-##  Future Improvements
+  Future Improvements
 
 - Weather Forecast Integration
 - Google Maps Navigation
@@ -131,7 +131,7 @@ The generated itinerary includes:
 - Voice-Based Trip Planning
 
 
-##  Technologies
+  Technologies
 
 - Python
 - Streamlit
@@ -141,7 +141,7 @@ The generated itinerary includes:
 - Python-dotenv
 
 
-##  Sample Destination
+  Sample Destination
 
 **Destination:** Ooty
 
